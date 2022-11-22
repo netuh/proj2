@@ -85,3 +85,9 @@ pygmentsCodefencesGuessSyntax = true
     name = "Projeto 1"
     url = "projetos/projeto1/"
     weight = 1
+
+[[menu.main]]
+    parent = "projetos"
+    name = "Projeto 2"
+    url = "projetos/projeto2/"
+    weight = 1
