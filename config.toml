@@ -91,3 +91,51 @@ pygmentsCodefencesGuessSyntax = true
     name = "Projeto 2"
     url = "projetos/projeto2/"
     weight = 1
+
+[[menu.main]]
+    parent = "projetos"
+    name = "Projeto 3"
+    url = "projetos/projeto3/"
+    weight = 1
+
+[[menu.main]]
+    parent = "projetos"
+    name = "Projeto 4"
+    url = "projetos/projeto4/"
+    weight = 1
+
+[[menu.main]]
+    parent = "projetos"
+    name = "Projeto 5"
+    url = "projetos/projeto5/"
+    weight = 1
+
+[[menu.main]]
+    parent = "projetos"
+    name = "Projeto 6"
+    url = "projetos/projeto6/"
+    weight = 1
+
+[[menu.main]]
+    parent = "projetos"
+    name = "Projeto 7"
+    url = "projetos/projeto7/"
+    weight = 1
+
+[[menu.main]]
+    parent = "projetos"
+    name = "Projeto 8"
+    url = "projetos/projeto8/"
+    weight = 1
+
+[[menu.main]]
+    parent = "projetos"
+    name = "Projeto 9"
+    url = "projetos/projeto9/"
+    weight = 1
+
+[[menu.main]]
+    parent = "projetos"
+    name = "Projeto 10"
+    url = "projetos/projeto10/"
+    weight = 1
